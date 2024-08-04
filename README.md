@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://karstencole.github.io/personal-website-v2/">
-    <img height="250" src="/Gif.gif">
+    <img height="200" src="/Gif.gif">
   </a>
 </p>
 
