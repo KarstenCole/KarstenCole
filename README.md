@@ -9,7 +9,6 @@
 
 <h3 align="center"><em>Im Currently Coding with</em> <img src="/Next.js logo.png" height="30px">,&nbsp;&nbsp;<img src="/react.png" height="30px">,&nbsp;&nbsp;<img src="/typescript.webp" height="30px">,&nbsp;&nbsp;<img src="/tailwind.png" height="27px"></h3></p><h3 align="center"><em>Student studying CS and Finance at </em> <img src="/VTlogo.png" height="30px"></h3></p>
 
-<h3 align="center"> <em>𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 </em></h3>
-
-[()],
-[()],
+<h3 align="center"> <em>𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 </em> <br/><br/>
+<a href="https://karstencole.github.io/personal-website-v2/"> <span style="margin-top: 30px;">https://karstencole.github.io/personal-website-v2/<span/></a>
+</h3>
